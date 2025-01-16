@@ -15,5 +15,5 @@ Facebook automatic creation and verification
     ```
     $ cd
     $ cd CreateFB
-    $ python3.11 Xyteee.py
+    $ python Xyteee.py
     ```
