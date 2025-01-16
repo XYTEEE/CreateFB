@@ -9,7 +9,7 @@ Facebook automatic creation and verification
   pkg install python-pip
   git clone https://github.com/XYTEEE/CreateFB
   cd CreateFB
-  python3.11 Xyteee.py
+  python Xyteee.py
   ```
   - **Running on Termux**
     ```
